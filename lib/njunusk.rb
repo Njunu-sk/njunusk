@@ -1,8 +1,11 @@
 # frozen_string_literal: true
 
-require_relative "njunusk/version"
+require "njunusk/version"
+require "njunusk/center"
+require "njunusk/output"
 
 module Njunusk
   class Error < StandardError; end
-  # Your code goes here...
+
+  Output.new.log_to_console
 end
