@@ -1,7 +1,3 @@
-# Njunusk
-
-![njunusk](my_video.mov)
-
 ## Installation
 
 Install the gem and add to the application's Gemfile by executing:
@@ -11,6 +7,10 @@ Install the gem and add to the application's Gemfile by executing:
 If bundler is not being used to manage dependencies, install the gem by executing:
 
     $ gem install njunusk
+
+Then, `sudo njunusk`
+
+![njunusk](my_video.mov)
 
 ## Development
 
@@ -27,3 +27,5 @@ The gem is available as open source under the terms of the [MIT License](https:/
 ## Code of Conduct
 
 Everyone interacting in the Njunusk project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/njunusk/blob/main/CODE_OF_CONDUCT.md).
+
+- Credit to [andrecodes](https://github.com/andrewmcodes/andrewmcodes_gem).
