@@ -10,7 +10,7 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 Then, `sudo njunusk`
 
-![njunusk](my_video.mov)
+![njunusk](njunusk.png)
 
 ## Development
 
